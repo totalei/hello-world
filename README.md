@@ -1,2 +1,4 @@
 # hello-world
-Just testing
+
+i will takes notes about ios!
+
